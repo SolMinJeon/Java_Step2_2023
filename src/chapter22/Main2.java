@@ -1,4 +1,4 @@
-package chapter20;
+package chapter22;
 
 import java.awt.Frame;
 
